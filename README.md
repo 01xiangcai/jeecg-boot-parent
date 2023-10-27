@@ -3,6 +3,7 @@ Jeecg-Boot 低代码开发平台
 
 当前最新版本： 2.3（发布日期：20200914）
 
+使用框架简单开发报销功能，新增了jeecg-boot-module-reimburse模块，报销相关代码
 
 ## 后端技术架构
 - 基础框架：Spring Boot 2.1.3.RELEASE
